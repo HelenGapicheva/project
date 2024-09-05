@@ -3,8 +3,3 @@
 </div>
 
 Здесь собраны все мои студенческие проекты
-
-```mermaid
-  untracked -- "git add" --> staged;
-  staged    -- "???"     --> tracked/comitted;
-```
